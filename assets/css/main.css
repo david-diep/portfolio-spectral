@@ -3980,5 +3980,5 @@ input, select, textarea {
 
 	.project-img{
 	object-fit: contain;
-	max-height:50vh;
+	height:50vh;
 	}
